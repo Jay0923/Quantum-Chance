@@ -45,15 +45,16 @@ body{
 }
 #container p{
     font-size: 50px;
-    opacity:0%;
 }
 #odd{
+    opacity: 0%;
     animation-name: second;
     animation-fill-mode: forwards;
     animation-duration: 500ms;
     animation-delay:2s;
 }
 #wincondition{
+    opacity: 0%;
     animation-name: third;
     animation-fill-mode: forwards;
     animation-duration: 500ms;
